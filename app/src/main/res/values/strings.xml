@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Basket Ball</string>
+    <string name="_0">0</string>
+    <string name="_1">0</string>
+    <string name="_2">+3</string>
+    <string name="_3">+2</string>
+    <string name="_4">+1</string>
+    <string name="_5">+1</string>
+    <string name="_6">+2</string>
+    <string name="_7">+3</string>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="_10">+1</string>
+    <string name="_11">+3</string>
+    <string name="_111">+1</string>
+    <string name="_21">+2</string>
+    <string name="_102">+1</string>
+    <string name="_103">+2</string>
+    <string name="_104">+3</string>
+    <string name="_105">+1</string>
+    <string name="_106">+2</string>
+    <string name="_107">+3</string>
+    <string name="_teama">Team A</string>
+    <string name="teamb">Team B</string>
+</resources>
